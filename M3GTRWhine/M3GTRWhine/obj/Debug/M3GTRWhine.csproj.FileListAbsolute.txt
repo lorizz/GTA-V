@@ -1,0 +1,9 @@
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\bin\Debug\M3GTRWhine.dll
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\bin\Debug\M3GTRWhine.pdb
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\bin\Debug\irrKlang.NET4.dll
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.csprojResolveAssemblyReference.cache
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.csproj.CoreCompileInputs.cache
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.dll
+C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.pdb
