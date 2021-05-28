@@ -19,7 +19,7 @@ namespace IrrKlangPreloadedSounds
             FilePath = filepath;
         }
 
-        public void Play3DSound(/*ISoundEngine engine,*/ Vector3 sourcePosition, bool playLooped, bool allowMultipleInstances = false, bool allowSoundEffects = false)
+        public void Play3DSound(/*ISoundEngine engine,*/ Vector3 sourcePosition, bool playLooped, bool allowMultipleInstances = false, bool allowSoundEffects = true)
         {
             if (allowMultipleInstances || (!allowMultipleInstances && (Sound == null || Sound != null && Sound.Finished)))
             {

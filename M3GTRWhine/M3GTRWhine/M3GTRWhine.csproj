@@ -54,6 +54,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy /Q /Y "$(TargetDir)$(TargetName).*" "D:\SteamLibrary\steamapps\common\Grand Theft Auto V\scripts"</PostBuildEvent>
+    <PostBuildEvent>xcopy /Q /Y "$(TargetDir)$(TargetName).*" "E:\SteamLibrary\steamapps\common\Grand Theft Auto V\scripts"</PostBuildEvent>
   </PropertyGroup>
 </Project>

@@ -7,3 +7,9 @@ C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\
 C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.csproj.CoreCompileInputs.cache
 C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.dll
 C:\Users\alessandro\Desktop\GTA 5 Mods\projects\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.pdb
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.dll
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.pdb
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\bin\Debug\M3GTRWhine.dll
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\bin\Debug\M3GTRWhine.pdb
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.csproj.CoreCompileInputs.cache
+E:\Programming\GTA5\GTA-V\M3GTRWhine\M3GTRWhine\obj\Debug\M3GTRWhine.csproj.CopyComplete
